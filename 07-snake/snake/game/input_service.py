@@ -72,3 +72,6 @@ class InputService:
         Determines if the user is trying to close the window
         """
         return raylibpy.window_should_close()
+
+
+
